@@ -1,7 +1,7 @@
 # Lab 4 — Partition, mirror, fail, recover
 
-**Student:** Asanali Yernazarov
-**Machine:** MacBook Air (M3, 16 GB RAM, 512 GB); hypervisor: `<FILL: UTM / Parallels / VMware Fusion>`; guests: `<FILL: Ubuntu Server version>` and `<FILL: Windows 11 ARM version>`
+**Student:** Shakhzoda Donayeva
+**Machine:** MacBook Air (M3, 16 GB RAM, 512 GB)(acer nitro VB); hypervisor: `<FILL: UTM / Parallels / VMware Fusion>`; guests: `<FILL: Ubuntu Server version>` and `<FILL: Windows 11 ARM version>`
 **Date:** `<FILL>`
 
 ## Use of AI (disclosure)
